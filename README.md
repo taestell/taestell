@@ -1,1 +1,3 @@
 I am a software developer, specializing in the [Adobe Experience Manager (AEM)](https://www.adobe.com/marketing/experience-manager.html) content management system since about 2009.
+
+My current profile image is a photograph of the painting [Portrait of a Man, traditionally known as *Gozen Centen*](https://artsandculture.google.com/asset/portret-van-een-man-bekend-als-gozen-centen-1611-12-77/KQEjYlmp24UkNQ) by [Govert Flinck](https://artsandculture.google.com/entity/govert-flinck/m01sw13?categoryid=artist), which was identified as my "lookalike" by the [Google Arts & Culture](https://artsandculture.google.com/) app.
